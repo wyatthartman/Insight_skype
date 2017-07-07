@@ -1,0 +1,106 @@
+Index	Element	Class	Class_no	Class_color	Category	Category_color	Category_no	Gene_name	Gene_fxn	Gene
+1	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_glu_COG1501	"Alpha-glucosidases_family 31 of glycosyl hydrolases"	COG1501
+2	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_glu_COG2723	"Beta-glucosidase/6-phospho-beta-glucosidase/beta-galactosidase"	COG2723
+3	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_glu_COG1472	"Beta-glucosidase-related glycosidases"	COG1472
+4	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_glu_COG1486	"Alpha-galactosidases/6-phospho-beta-glucosidases_family 4 of glycosyl hydrolases"	COG1486
+5	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_gal_COG3345	"Alpha-galactosidase"	COG3345
+6	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_gal_COG1874	"Beta-galactosidase"	COG1874
+7	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_gal_COG2731	"Beta-galactosidase_beta subunit"	COG2731
+8	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_gal_COG3250	"Beta-galactosidase/beta-glucuronidase"	COG3250
+9	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_man_COG0383	"Alpha-mannosidase"	COG0383
+10	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Sugars	"#E15257"	C_1.1.Sug	Sug_man_COG3537	"Putative alpha-1,2-mannosidase"	COG3537
+11	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Polysacch.	"#D31B1D"	C_1.2.PS	PS_aml_COG1449	"Alpha-amylase/alpha-mannosidase"	COG1449
+12	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Polysacch.	"#D31B1D"	C_1.2.PS	PS_aml_COG3387	"Glucoamylase and related glycosyl hydrolases"	COG3387
+13	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Polysacch.	"#D31B1D"	C_1.2.PS	PS_cbh_COG5297	"Cellobiohydrolase A (1,4-beta-cellobiosidase A)"	COG5297
+14	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Polysacch.	"#D31B1D"	C_1.2.PS	PS_cel_COG1363	"Cellulase M and related proteins"	COG1363
+15	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Polysacch.	"#D31B1D"	C_1.2.PS	PS_chtn_COG3325	"Chitinase"	COG3325
+16	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Polysacch.	"#D31B1D"	C_1.2.PS	PS_chtn_COG3469	"Chitinase"	COG3469
+17	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Polysacch.	"#D31B1D"	C_1.2.PS	PS_xyl_COG0726	"Predicted xylanase/chitin deacetylase"	COG0726
+18	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Polysacch.	"#D31B1D"	C_1.2.PS	PS_xyl_COG3693	"Beta-1,4-xylanase"	COG3693
+19	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Oth. carbohyd.	"#AE0000"	C_1.3.CH	CH_abc_COG1134	"ABC-type polysaccharide/polyol phosphate transport system_ATPase component"	COG1134
+20	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Oth. carbohyd.	"#AE0000"	C_1.3.CH	CH_por_COG3659	"Carbohydrate-selective porin"	COG3659
+21	Carbon	C_carbohydrates	C_1.C_Carb	"#D31B1D"	Oth. carbohyd.	"#AE0000"	C_1.3.CH	CH_pectate_COG3866	"Pectate lyase"	COG3866
+22	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_Lacc_COG1496	"Multi-copper polyphenol oxidoreductase laccase"	COG1496
+23	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_Cuox_COG2132	"Putative multicopper oxidases"	COG2132
+24	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_phnox_COG4313	"Protein involved in meta-pathway of phenol degradation"	COG4313
+25	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_cbxl_COG2272	"Carboxylesterase type B"	COG2272
+26	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_ringX_COG3805	"Aromatic ring-cleaving dioxygenase"	COG3805
+27	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_ringHX_COG4638	"Phenylpropionate dioxygenase and related ring-hydroxylating dioxygenases_large terminal subunit"	COG4638
+28	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_ringHX_COG2368	"Aromatic ring hydroxylase"	COG2368
+29	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_bzCoa_COG1775	"Benzoyl-CoA reductase/2-hydroxyglutaryl-CoA dehydratase subunit_BcrC/BadD/HgdB"	COG1775
+30	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_uncprt_COG2050	"Uncharacterized protein_possibly involved in aromatic compounds catabolism"	COG2050
+31	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	Arm_phdcbxl_COG3479	"Phenolic acid decarboxylase"	COG3479
+32	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	arm_RingX_COG2514	"Predicted ring-cleavage extradiol dioxygenase"	COG2514
+33	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	arm_RingX_COG3565	"Predicted dioxygenase of extradiol dioxygenase family"	COG3565
+34	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Aromatic	"#740000"	C_2.1.Arm	arm_Naptha_COG3917	"2-hydroxychromene-2-carboxylate isomerase"	COG3917
+35	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Trap transp.	"#3A0000"	C_2.2.Trap	TRAP_C4_ferm_COG1638	"TRAP-type C4-dicarboxylate transport system_periplasmic component"	COG1638
+36	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Trap transp.	"#3A0000"	C_2.2.Trap	TRAP_C4_ferm_COG1593	"TRAP-type C4-dicarboxylate transport system_large permease component"	COG1593
+37	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Trap transp.	"#3A0000"	C_2.2.Trap	TRAP_mannitol_COG4663	"TRAP-type mannitol/chloroaromatic compound transport system_periplasmic component"	COG4663
+38	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Trap transp.	"#3A0000"	C_2.2.Trap	TRAP_mannitol_COG4664	"TRAP-type mannitol/chloroaromatic compound transport system_large permease component"	COG4664
+39	Carbon	C_aromatics	C_2.C_Arm	"#3A0000"	Trap transp.	"#3A0000"	C_2.2.Trap	TRAP_mannitol_COG4665	"TRAP-type mannitol/chloroaromatic compound transport system_small permease component"	COG4665
+40	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.1.Dnt	Dnt_NapANarBG_COG0243	"Anaerobic dehydrogenases_typically selenocysteine-containing"	COG0243
+41	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.1.Dnt	Dnt_NapB_COG3043	"Nitrate reductase cytochrome c-type subunit"	COG3043
+42	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.1.Dnt	Dnt_NarG_COG5013	"Nitrate reductase alpha subunit"	COG5013
+43	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.1.Dnt	Dnt_NarI_COG2181	"Nitrate reductase gamma subunit"	COG2181
+44	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.1.Dnt	Dnt_NarJ_COG2180	"Nitrate reductase delta subunit"	COG2180
+45	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.1.Dnt	Dnt_NarY_COG1140	"Nitrate reductase beta subunit"	COG1140
+46	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.2.Dnt	Dnt_NorB_COG3256	"Nitric oxide reductase large subunit"	COG3256
+47	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.2.Dnt	Dnt_NosD_COG3420	"Nitrous oxidase accessory protein"	COG3420
+48	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.2.Dnt	Dnt_NosZ_COG4263	"Nitrous oxide reductase"	COG4263
+49	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.3.Dnt	Dnt_QcrA_COG0723	"Rieske Fe-S protein"	COG0723
+50	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Denitrification	"#00E100"	N_1.3.Dnt	Dnt_QcrB_COG1290	"Cytochrome b subunit of the bc complex"	COG1290
+51	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Diss. NO3 red.	"#00C400"	N_1.2.dissNO3r	dissNO3r_Hyb_COG0437	"Fe-S-cluster-containing hydrogenase components 1"	COG0437
+52	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Diss. NO3 red.	"#00C400"	N_1.2.dissNO3r	dissNO3r_NrfA_COG3303	"Formate-dependent nitrite reductase_periplasmic cytochrome c552 subunit"	COG3303
+53	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	Diss. NO3 red.	"#00C400"	N_1.2.dissNO3r	dissNO3r_NrfD_COG3301	"Formate-dependent nitrite reductase_membrane component"	COG3301
+54	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	NH3 oxidation	"#00A700"	N_1.3.AmoOx	AmoOx_abrB_COG3180	"Putative ammonia monooxygenase"	COG3180
+55	Nitrogen	N_dissimilation	N_1.N_Diss	"#00C400"	NH3 oxidation	"#00A700"	N_1.3.AmoOx	Anamx_Hzo_COG1151	"6Fe-6S prismane cluster-containing protein (Hydroxylamine reductase)"	COG1151
+56	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NO3 assim.	"#008300"	N_2.1.assmNO3r	assmNO3r_NarK_COG2223	"Nitrate/nitrite transporter"	COG2223
+58	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NO3 assim.	"#008300"	N_2.1.assmNO3r	assmNO3r_NirB_COG1251	"NAD(P)H-nitrite reductase"	COG1251
+59	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NO3 assim.	"#008300"	N_2.1.assmNO3r	assmNO3r_NirD_COG2146	"Ferredoxin subunits of nitrite reductase and ring-hydroxylating dioxygenases"	COG2146
+60	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NO3 assim.	"#008300"	N_2.1.assmNO3r	assmNO3r_Nrt_COG0715	"ABC-type nitrate/sulfonate/bicarbonate transport systems_periplasmic components"	COG0715
+61	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NH4+ assim.	"#005700"	N_2.2.NH4assm	NH4assm_ansB_COG0252	"L-asparaginase/archaeal Glu-tRNAGln amidotransferase subunit D"	COG0252
+62	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NH4+ assim.	"#005700"	N_2.2.NH4assm	NH4assm_aNsB_COG0367	"Asparagine synthase (glutamine-hydrolyzing)"	COG0367
+63	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NH4+ assim.	"#005700"	N_2.2.NH4assm	NH4assm_COG2902	"NAD-specific glutamate dehydrogenase"	COG2902
+64	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NH4+ assim.	"#005700"	N_2.2.NH4assm	NH4assm_GdHA_COG0334	"Glutamate dehydrogenase/leucine dehydrogenase"	COG0334
+65	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NH4+ assim.	"#005700"	N_2.2.NH4assm	NH4assm_GlnA_COG0174	"Glutamine synthetase"	COG0174
+66	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NH4+ assim.	"#005700"	N_2.2.NH4assm	NH4assm_GlsA_COG2066	"Glutaminase"	COG2066
+67	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NH4+ assim.	"#005700"	N_2.2.NH4assm	NH4assm_GltB_COG0067	"Glutamate synthase domain 1"	COG0067
+68	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	NH4+ assim.	"#005700"	N_2.2.NH4assm	NH4assm_GltD_COG0493	"NADPH-dependent glutamate synthase beta chain and related oxidoreductases"	COG0493
+69	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	N-fixation	"#002B00"	N_2.3.N_fix	N.fix_NifH_COG1348	"Nitrogenase subunit NifH (ATPase)"	COG1348
+70	Nitrogen	N_Assimilation	N_2.N_Assim	"#005700"	N-fixation	"#002B00"	N_2.3.N_fix	N.fix_NifD_COG2710	"Nitrogenase molybdenum-iron protein_alpha and beta chains"	COG2710
+71	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	PO4 transport	"#7B9AED"	P_1.1.P.transp	Pi_porin_COG3746	"Phosphate-selective porin"	COG3746
+72	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	PO4 transport	"#7B9AED"	P_1.1.P.transp	Pi_permease_COG0306	"Phosphate/sulphate permeases"	COG0306
+73	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	PO4 transport	"#7B9AED"	P_1.1.P.transp	ABC_P.transp_COG0226	"ABC-type phosphate transport system_periplasmic component"	COG0226
+74	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	PO4 transport	"#7B9AED"	P_1.1.P.transp	ABC_P.transp_COG1117	"ABC-type phosphate transport system_ATPase component"	COG1117
+75	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	PO4 transport	"#7B9AED"	P_1.1.P.transp	ABC_Pi_COG0573	"ABC-type phosphate transport system_permease component"	COG0573
+76	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	PO4 transport	"#7B9AED"	P_1.1.P.transp	ABC_Pi_COG0581	"ABC-type phosphate transport system_permease component"	COG0581
+77	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	PO4 transport	"#7B9AED"	P_1.1.P.transp	Ptrans_Pit_COG1283	"Na+/phosphate symporter"	COG1283
+78	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	P internal	"#4A5CF4"	P_1.3.P.intrnl	P.intrnl_COG2190	"Phosphotransferase system IIA components"	COG2190
+79	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	P internal	"#4A5CF4"	P_1.3.P.intrnl	P.reg_COG0704	"Phosphate uptake regulator"	COG0704
+80	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	P internal	"#4A5CF4"	P_1.3.P.intrnl	P.reg_phoH_COG1875	"Predicted ATPase related to phosphate starvation-inducible protein PhoH"	COG1875
+81	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	P internal	"#4A5CF4"	P_1.3.P.intrnl	P.reg_COG1392	"Phosphate transport regulator (distant homolog of PhoU)"	COG1392
+82	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	P internal	"#4A5CF4"	P_1.3.P.intrnl	P.intrnl_COG2045	"Phosphosulfolactate phosphohydrolase and related enzymes"	COG2045
+83	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	P internal	"#4A5CF4"	P_1.3.P.intrnl	P.reg_phoPQ_COG4287	"PhoPQ-activated pathogenicity-related protein"	COG4287
+84	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	P internal	"#4A5CF4"	P_1.2.ppk	ppk.e_COG0855	"P internal"	COG0855
+85	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	P internal	"#4A5CF4"	P_1.2.ppk	ppk.p_COG5036	"SPX domain-containing protein involved in vacuolar polyphosphate accumulation"	COG5036
+86	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	Inorg. P-ases	"#181EFB"	P_1.4.Ppi	P.ase_Ppi_COG0221	"Inorganic pyrophosphatase"	COG0221
+87	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	Inorg. P-ases	"#181EFB"	P_1.4.Ppi	P.ase_Ppi_COG1694	"Predicted pyrophosphatase"	COG1694
+88	Phosphorus	P_transp_intnl	P_1.P_trans	"#7B9AED"	Inorg. P-ases	"#181EFB"	P_1.4.Ppi	P.ase_Ppi_COG3808	"Inorganic pyrophosphatase"	COG3808
+90	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Inorg. P-ases	"#0000DA"	P_2.1.ppx	ppx.e_COG0248	"Inorg. P-ases"	COG0248
+91	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Inorg. P-ases	"#0000DA"	P_2.1.ppx	ppx.p_COG0618	"Inorg. P-ases-related proteins"	COG0618
+92	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Inorg. P-ases	"#0000DA"	P_2.1.ppx	P.ase_Ppi.ppx_COG1227	"Inorganic pyrophosphatase/Inorg. P-ases"	COG1227
+93	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphatases	"#000091"	P_2.2.P.ase	Pase_ac_COG3907	"PAP2 (acid phosphatase) superfamily protein"	COG3907
+94	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphatases	"#000091"	P_2.2.P.ase	P.ase_alk_COG1785	"Alkaline phosphatase"	COG1785
+96	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphatases	"#000091"	P_2.2.P.ase	P.ase_alk_COG3540	"Phosphodiesterase/alkaline phosphatase D"	COG3540
+97	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phytases	"#000091"	P_2.3.Phyt	P.ase_3phytase_COG4247	"3-phytase (myo-inositol-hexaphosphate 3-phosphohydrolase)"	COG4247
+98	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phytases	"#000091"	P_2.3.Phyt	P.ase_Phyt.arch_COG0483	"Archaeal fructose-1,6-bisphosphatase and related enzymes of inositol monophosphatase family"	COG0483
+99	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.4.Phn	P_phn.p_COG2824	"Uncharacterized Zn-ribbon-containing protein involved in phosphonate metabolism"	COG2824
+100	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.4.Phn	P_phn.p_COG3454	"Metal-dependent hydrolase involved in phosphonate metabolism"	COG3454
+101	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.4.Phn	P_phn.p_COG3624	"Uncharacterized enzyme of phosphonate metabolism"	COG3624
+102	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.4.Phn	P_phn.p_COG3625	"Uncharacterized enzyme of phosphonate metabolism"	COG3625
+103	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.4.Phn	P_phn.p_COG3626	"Uncharacterized enzyme of phosphonate metabolism"	COG3626
+104	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.4.Phn	P_phn.p_COG3627	"Uncharacterized enzyme of phosphonate metabolism"	COG3627
+105	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.4.Phn	P_phn.p_COG3709	"Uncharacterized component of phosphonate metabolism"	COG3709
+106	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.5.phn.transp	ABC_Pi.Phn_COG3638	"ABC-type phosphate/phosphonate transport system_ATPase component"	COG3638
+107	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.5.phn.transp	ABC_Pi.Phn_COG3639	"ABC-type phosphate/phosphonate transport system_permease component"	COG3639
+108	Phosphorus	P_scavenging	P_2.P_scav	"#000091"	Phosphonate util.	"#000048"	P_2.5.phn.transp	ABC_Phn_COG4778	"ABC-type phosphonate transport system_ATPase component"	COG4778
